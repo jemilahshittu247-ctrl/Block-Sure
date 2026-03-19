@@ -26,6 +26,6 @@ BlockSure aims to become a foundational risk management layer for DeFi by improv
 * Clarity Smart Contracts
 * Bitcoin-secured infrastructure
 
-## ⚡ Vision
+##  Vision
 
 To create a scalable and trustless insurance ecosystem that safeguards users across decentralized protocols while setting a new standard for security and transparency in Web3.
